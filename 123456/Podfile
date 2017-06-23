@@ -1,0 +1,6 @@
+target ’123456’ do
+platform :osx, '10.10'
+
+pod "GCDWebServer", "~> 3.0"
+
+end
